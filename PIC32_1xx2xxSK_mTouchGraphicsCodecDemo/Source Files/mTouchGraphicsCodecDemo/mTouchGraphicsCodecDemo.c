@@ -43,6 +43,8 @@
 * MWM           2-Aug-2011 Created for PIC32MX1xx/2xx Starter Kit Demo app
 *******************************************************************************/
 
+//adding a comment here to test out git
+
 //What music will the app play??
 #include "MusicDefines.h"
 
@@ -210,7 +212,7 @@ int main(void)
 				 RODIV);
 
 
-
+	Nop(); //added for git test
    // Setup CODEC interface after setting up display.
     
     LRCLK_PPS_SETUP;
