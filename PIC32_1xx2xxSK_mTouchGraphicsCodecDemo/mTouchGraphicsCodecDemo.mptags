@@ -1,0 +1,1374 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADCHPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	597;"	m	line:597
+ADCPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	631;"	m	line:631
+ADC_POT::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	538;"	d	line:538
+ADC_POT::5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	529;"	d	line:529
+ADC_POT::5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	546;"	d	line:546
+ADC_POT::ADC_CH0_POS_SAMPLEA_AN5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	543;"	d	line:543
+ADC_POT_PCFG::AD1PCFGLbits.PCFG0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	540;"	d	line:540
+ADC_POT_TRIS::TRISAbits.TRISA0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	539;"	d	line:539
+ADC_TEMP::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	528;"	d	line:528
+ADC_TEMP::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	537;"	d	line:537
+ADC_TEMP::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	545;"	d	line:545
+ADC_TEMP::ADC_CH0_POS_SAMPLEA_AN4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	542;"	d	line:542
+ADC_XPOS::11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	581;"	d	line:581
+ADC_XPOS::11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	624;"	d	line:624
+ADC_XPOS::13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	555;"	d	line:555
+ADC_XPOS::16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	667;"	d	line:667
+ADC_XPOS::5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	575;"	d	line:575
+ADC_XPOS::5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	618;"	d	line:618
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	578;"	d	line:578
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	621;"	d	line:621
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	685;"	d	line:685
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	552;"	d	line:552
+ADC_YPOS::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	582;"	d	line:582
+ADC_YPOS::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	625;"	d	line:625
+ADC_YPOS::12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	556;"	d	line:556
+ADC_YPOS::18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	668;"	d	line:668
+ADC_YPOS::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	576;"	d	line:576
+ADC_YPOS::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	619;"	d	line:619
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	579;"	d	line:579
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	622;"	d	line:622
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	553;"	d	line:553
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	686;"	d	line:686
+ADPCFG_XPOS::AD1PCFGLbits.PCFG5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	587;"	d	line:587
+ADPCFG_XPOS::AD1PCFGLbits.PCFG5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	630;"	d	line:630
+ADPCFG_XPOS::AD1PCFGbits.PCFG11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	603;"	d	line:603
+ADPCFG_XPOS::AD1PCFGbits.PCFG11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	646;"	d	line:646
+ADPCFG_XPOS::AD1PCFGbits.PCFG11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	689;"	d	line:689
+ADPCFG_XPOS::AD1PCFGbits.PCFG13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	560;"	d	line:560
+ADPCFG_XPOS::ANSCbits.ANSC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	671;"	d	line:671
+ADPCFG_YPOS::AD1PCFGLbits.PCFG4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	594;"	d	line:594
+ADPCFG_YPOS::AD1PCFGLbits.PCFG4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	637;"	d	line:637
+ADPCFG_YPOS::AD1PCFGbits.PCFG10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	610;"	d	line:610
+ADPCFG_YPOS::AD1PCFGbits.PCFG10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	659;"	d	line:659
+ADPCFG_YPOS::AD1PCFGbits.PCFG12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	567;"	d	line:567
+ADPCFG_YPOS::AD1PCFGbits.PCFG14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	696;"	d	line:696
+ADPCFG_YPOS::ANSGbits.ANSG7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	678;"	d	line:678
+Active	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	737;"	m	line:737
+AltCommand	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	266;"	l	line:266
+AudioWord	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	342;"	m	line:342
+BCLKINV	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	665;"	m	line:665
+BEEP_LAT_BIT::LATBbits.LATB4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	387;"	d	line:387
+BEEP_LAT_BIT::LATDbits.LATD0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	390;"	d	line:390
+BEEP_LAT_BIT::LATDbits.LATD0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	394;"	d	line:394
+BEEP_TRIS_BIT::TRISBbits.TRISB4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	386;"	d	line:386
+BEEP_TRIS_BIT::TRISDbits.TRISD0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	389;"	d	line:389
+BEEP_TRIS_BIT::TRISDbits.TRISD0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	393;"	d	line:393
+BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+BOOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	64;"	t	line:64
+BOSR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	704;"	m	line:704
+BTN_S1::_RG8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	709;"	d	line:709
+BTN_S2::_RE9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	710;"	d	line:710
+BTN_S3::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	715;"	d	line:715
+BTN_S3::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	726;"	d	line:726
+BTN_S3::_RA9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	721;"	d	line:721
+BTN_S3::_RB5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	711;"	d	line:711
+BTN_S3::_RD6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	731;"	d	line:731
+BTN_S4::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	716;"	d	line:716
+BTN_S4::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	722;"	d	line:722
+BTN_S4::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	727;"	d	line:727
+BTN_S4::_RD13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	732;"	d	line:732
+BTN_S5::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	717;"	d	line:717
+BTN_S5::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	723;"	d	line:723
+BTN_S5::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	728;"	d	line:728
+BTN_S5::_RA7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	733;"	d	line:733
+BTN_S6::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	718;"	d	line:718
+BTN_S6::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	724;"	d	line:724
+BTN_S6::1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	729;"	d	line:729
+BTN_S6::_RD7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	734;"	d	line:734
+BYPASS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	562;"	m	line:562
+BYTE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	341;"	t	line:341
+BYTE_BITS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	367;"	t	line:367
+BYTE_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	367;"	t	line:367
+BufferEmpty	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	84;"	v	line:84
+CAT::(x,y)x##y	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	218;"	d	line:218
+CHAR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	347;"	t	line:347
+CHAR8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	338;"	t	line:338
+CLEAR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+CLKIDIV2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	706;"	m	line:706
+CLKODIV2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	707;"	m	line:707
+CLKOUTPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	635;"	m	line:635
+CLR_CS::1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	287;"	d	line:287
+CLR_CS::1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	361;"	d	line:361
+CLR_CS::LATDCLR=_LATD_LATD11_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	328;"	d	line:328
+CLR_RD::LATDCLR=_LATD_LATD5_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	335;"	d	line:335
+CLR_RD::PORTBbits.RB13=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	296;"	d	line:296
+CLR_RD::PORTBbits.RB13=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	368;"	d	line:368
+CLR_RESET::LATCCLR=_LATC_LATC1_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	341;"	d	line:341
+CLR_RESET::LATCbits.LATC5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	308;"	d	line:308
+CLR_RESET::LATCbits.LATC5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	374;"	d	line:374
+CLR_RESET::PMADDRCLR=1<<DISPLAY_RESET_ADD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	305;"	d	line:305
+CLR_RS::LATBCLR=_LATB_LATB15_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	331;"	d	line:331
+CLR_RS::LATBbits.LATB5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	291;"	d	line:291
+CLR_RS::LATBbits.LATB5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	364;"	d	line:364
+CLR_WR::LATBbits.LATB3=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	300;"	d	line:300
+CLR_WR::LATBbits.LATB3=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	371;"	d	line:371
+CLR_WR::LATDCLR=_LATD_LATD4_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	338;"	d	line:338
+CMDBRG::XCAT(XCAT(WM8731DRV_CMD_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	245;"	d	line:245
+CMDBUF::XCAT(XCAT(WM8731DRV_CMD_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	244;"	d	line:244
+CMDCON::XCAT(XCAT(WM8731DRV_CMD_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	240;"	d	line:240
+CMDCONBITS::XCAT(XCAT(WM8731DRV_CMD_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	241;"	d	line:241
+CMDDeinit	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	166;"	f	line:166	signature:(void)
+CMDDeinit	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	812;"	p	line:812	signature:(void)
+CMDInit	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	135;"	f	line:135	signature:(void)
+CMDInit	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	811;"	p	line:811	signature:(void)
+CMDSTAT::XCAT(XCAT(WM8731DRV_CMD_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	242;"	d	line:242
+CMDSTATBITS::XCAT(XCAT(WM8731DRV_CMD_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	243;"	d	line:243
+CMDWriteSPI	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	185;"	f	line:185	signature:(UINT reg, UINT val)
+COLOR_DEPTH::16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	73;"	d	line:73
+COMPILER_HITECH_PICC18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	68;"	d	line:68
+COMPILER_MPLAB_C18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	61;"	d	line:61
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	72;"	d	line:72
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	76;"	d	line:76
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	80;"	d	line:80
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	84;"	d	line:84
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	88;"	d	line:88
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	92;"	d	line:92
+COMPILER_MPLAB_C30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	95;"	d	line:95
+COMPILER_MPLAB_C32	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	109;"	d	line:109
+CS_DIG::	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	745;"	d	line:745
+CS_PORT::_RA0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	743;"	d	line:743
+CS_TRIS::_TRISA0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	744;"	d	line:744
+ChanSPI	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	137;"	l	line:137
+ChanSPI	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	168;"	l	line:168
+ChanSPI	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	187;"	l	line:187
+ClrWdt::(WDTCONSET=_WDTCON_WDTCLR_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	189;"	d	line:189
+ClrWdt::asm("CLRWDT");	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	168;"	d	line:168
+ClrWdt::{__asm__volatile("clrwdt");}	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	101;"	d	line:101
+CodecMusicOn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	86;"	v	line:86	file:
+Command	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	188;"	l	line:188
+Command	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	265;"	l	line:265
+Command	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	356;"	l	line:356
+DACMU	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	599;"	m	line:599
+DACPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	632;"	m	line:632
+DACSEL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	563;"	m	line:563
+DAC_DATA_PPS_SETUP::PPSOutput(3,RPC6,SDO1)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	72;"	d	line:72
+DAC_DATA_TRIS_SETUP::TRISCbits.TRISC6=0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	73;"	d	line:73
+DC_DIG::_ANSB0=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	757;"	d	line:757
+DC_PORT::_RB0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	755;"	d	line:755
+DC_TRIS::_TRISB0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	756;"	d	line:756
+DEEMPH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	598;"	m	line:598
+DEEMPH0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	604;"	m	line:604
+DEEMPH1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	605;"	m	line:605
+DIRECTKEY1_CHANNEL::CHANNEL_AN6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	250;"	d	line:250
+DIRECTKEY2_CHANNEL::CHANNEL_AN7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	251;"	d	line:251
+DIRECTKEY3_CHANNEL::CHANNEL_AN8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	252;"	d	line:252
+DIRECTKEY4_CHANNEL::CHANNEL_AN12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	253;"	d	line:253
+DISPLAY_CONTROLLER::OTM2201A	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	71;"	d	line:71
+DISPLAY_PANEL::-1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	150;"	d	line:150
+DISPLAY_PANEL::-1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	167;"	d	line:167
+DISPLAY_PANEL::PH480272T_005_I11Q	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	72;"	d	line:72
+DISPLAY_RESET_ADDR_BIT::3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	271;"	d	line:271
+DISP_DATA_WIDTH::18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	191;"	d	line:191
+DISP_DATA_WIDTH::18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	219;"	d	line:219
+DISP_DATA_WIDTH::24	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	234;"	d	line:234
+DISP_HOR_BACK_PORCH::2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	236;"	d	line:236
+DISP_HOR_BACK_PORCH::5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	194;"	d	line:194
+DISP_HOR_BACK_PORCH::8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	221;"	d	line:221
+DISP_HOR_FRONT_PORCH::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	195;"	d	line:195
+DISP_HOR_FRONT_PORCH::2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	237;"	d	line:237
+DISP_HOR_FRONT_PORCH::8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	222;"	d	line:222
+DISP_HOR_PULSE_WIDTH::25	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	193;"	d	line:193
+DISP_HOR_PULSE_WIDTH::25	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	220;"	d	line:220
+DISP_HOR_PULSE_WIDTH::42	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	235;"	d	line:235
+DISP_HOR_RESOLUTION::176	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	258;"	d	line:258
+DISP_HOR_RESOLUTION::240	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	147;"	d	line:147
+DISP_HOR_RESOLUTION::240	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	156;"	d	line:156
+DISP_HOR_RESOLUTION::240	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	189;"	d	line:189
+DISP_HOR_RESOLUTION::320	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	217;"	d	line:217
+DISP_HOR_RESOLUTION::480	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	232;"	d	line:232
+DISP_INV_LSHIFT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	192;"	d	line:192
+DISP_ORIENTATION::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	188;"	d	line:188
+DISP_ORIENTATION::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	216;"	d	line:216
+DISP_ORIENTATION::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	231;"	d	line:231
+DISP_ORIENTATION::90	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	146;"	d	line:146
+DISP_ORIENTATION::90	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	155;"	d	line:155
+DISP_ORIENTATION::90	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	257;"	d	line:257
+DISP_VER_BACK_PORCH::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	197;"	d	line:197
+DISP_VER_BACK_PORCH::2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	239;"	d	line:239
+DISP_VER_BACK_PORCH::7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	224;"	d	line:224
+DISP_VER_FRONT_PORCH::2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	198;"	d	line:198
+DISP_VER_FRONT_PORCH::2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	240;"	d	line:240
+DISP_VER_FRONT_PORCH::5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	225;"	d	line:225
+DISP_VER_PULSE_WIDTH::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	238;"	d	line:238
+DISP_VER_PULSE_WIDTH::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	196;"	d	line:196
+DISP_VER_PULSE_WIDTH::8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	223;"	d	line:223
+DISP_VER_RESOLUTION::220	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	259;"	d	line:259
+DISP_VER_RESOLUTION::240	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	218;"	d	line:218
+DISP_VER_RESOLUTION::272	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	233;"	d	line:233
+DISP_VER_RESOLUTION::320	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	148;"	d	line:148
+DISP_VER_RESOLUTION::320	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	157;"	d	line:157
+DISP_VER_RESOLUTION::320	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	190;"	d	line:190
+DWORD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	343;"	t	line:343
+DWORD_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	456;"	t	line:456
+DataIn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	73;"	v	line:73
+Delay10us	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	124;"	f	line:124	signature:( UINT32 tenMicroSecondCounter )
+Delay10us	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.h	81;"	p	line:81	signature:( UINT32 tenMicroSecondCounter )
+Delay1us	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	67;"	f	line:67	signature:( UINT32 MicroSecondCounter )
+Delay1us	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.h	59;"	p	line:59	signature:( UINT32 MicroSecondCounter )
+DelayMs	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	180;"	f	line:180	signature:( UINT16 ms )
+DelayMs	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.h	102;"	p	line:102	signature:( UINT16 ms )
+DisplayCSConfig::1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	280;"	d	line:280
+DisplayCSConfig::1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	354;"	d	line:354
+DisplayCSConfig::TRISDCLR=_TRISD_TRISD11_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	320;"	d	line:320
+DisplayDisable::LATBbits.LATB5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	313;"	d	line:313
+DisplayDisable::LATBbits.LATB5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	378;"	d	line:378
+DisplayDisable::LATDSET=_LATD_LATD11_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	345;"	d	line:345
+DisplayEnable::LATBbits.LATB5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	312;"	d	line:312
+DisplayEnable::LATBbits.LATB5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	377;"	d	line:377
+DisplayEnable::LATDCLR=_LATD_LATD11_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	344;"	d	line:344
+DisplayRSConfig::TRISBCLR=_TRISB_TRISB15_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	321;"	d	line:321
+DisplayRSConfig::TRISBbits.TRISB5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	281;"	d	line:281
+DisplayRSConfig::TRISBbits.TRISB5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	355;"	d	line:355
+DisplayReadConfig::TRISBbits.TRISB13=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	279;"	d	line:279
+DisplayReadConfig::TRISBbits.TRISB13=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	353;"	d	line:353
+DisplayReadConfig::TRISDCLR=_TRISD_TRISD5_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	319;"	d	line:319
+DisplayResetConfig::PMAENSET=1<<DISPLAY_RESET_ADDR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	273;"	d	line:273
+DisplayResetConfig::TRISCCLR=_TRISC_TRISC1_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	317;"	d	line:317
+DisplayResetConfig::TRISCbits.TRISC5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	275;"	d	line:275
+DisplayResetConfig::TRISCbits.TRISC5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	351;"	d	line:351
+DisplayResetDisable::LATCSET=_LATC_LATC1_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	325;"	d	line:325
+DisplayResetDisable::LATCbits.LATC5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	284;"	d	line:284
+DisplayResetDisable::LATCbits.LATC5=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	358;"	d	line:358
+DisplayResetEnable::LATCCLR=_LATC_LATC1_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	324;"	d	line:324
+DisplayResetEnable::LATCbits.LATC5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	283;"	d	line:283
+DisplayResetEnable::LATCbits.LATC5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	357;"	d	line:357
+DisplayWriteConfig::TRISBbits.TRISB3=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	278;"	d	line:278
+DisplayWriteConfig::TRISBbits.TRISB3=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	352;"	d	line:352
+DisplayWriteConfig::TRISDCLR=_TRISD_TRISD2_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	318;"	d	line:318
+EEPROM_CS_LAT::LATAbits.LATA0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	405;"	d	line:405
+EEPROM_CS_LAT::LATDbits.LATD12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	412;"	d	line:412
+EEPROM_CS_LAT::LATDbits.LATD12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	416;"	d	line:416
+EEPROM_CS_LAT::LATGbits.LATG0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	409;"	d	line:409
+EEPROM_CS_TRIS::TRISAbits.TRISA0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	404;"	d	line:404
+EEPROM_CS_TRIS::TRISDbits.TRISD12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	411;"	d	line:411
+EEPROM_CS_TRIS::TRISDbits.TRISD12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	415;"	d	line:415
+EEPROM_CS_TRIS::TRISGbits.TRISG0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	408;"	d	line:408
+EEPROM_SCK_TRIS::TRISCbits.TRISC2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	419;"	d	line:419
+EEPROM_SCK_TRIS::TRISGbits.TRISG6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	423;"	d	line:423
+EEPROM_SDI_TRIS::TRISCbits.TRISC1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	421;"	d	line:421
+EEPROM_SDI_TRIS::TRISGbits.TRISG7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	425;"	d	line:425
+EEPROM_SDO_TRIS::TRISCbits.TRISC0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	420;"	d	line:420
+EEPROM_SDO_TRIS::TRISGbits.TRISG8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	424;"	d	line:424
+EXPLORER_16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	68;"	d	line:68
+FALSE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+FAR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	187;"	d	line:187
+FAR::__attribute__((far))	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	180;"	d	line:180
+FAR::far	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	156;"	d	line:156
+FORMAT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	658;"	m	line:658
+FORMAT0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	668;"	m	line:668
+FORMAT1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	669;"	m	line:669
+GFX_BUFFER1::0x00020000ul	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	119;"	d	line:119
+GFX_BUFFER2::0x00050000ul	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	120;"	d	line:120
+GFX_CLOCK_POLARITY::GFX_ACTIVE_HIGH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	206;"	d	line:206
+GFX_CLOCK_POLARITY::GFX_ACTIVE_LOW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	247;"	d	line:247
+GFX_DISPLAYENABLE_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	202;"	d	line:202
+GFX_DISPLAYENABLE_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	243;"	d	line:243
+GFX_DISPLAYENABLE_POLARITY::GFX_ACTIVE_HIGH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	207;"	d	line:207
+GFX_DISPLAYENABLE_POLARITY::GFX_ACTIVE_HIGH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	248;"	d	line:248
+GFX_DISPLAYPOWER_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	205;"	d	line:205
+GFX_DISPLAYPOWER_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	246;"	d	line:246
+GFX_DISPLAYPOWER_POLARITY::GFX_ACTIVE_HIGH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	210;"	d	line:210
+GFX_DISPLAYPOWER_POLARITY::GFX_ACTIVE_HIGH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	251;"	d	line:251
+GFX_DISPLAY_BUFFER_START_ADDRESS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	113;"	d	line:113
+GFX_DISPLAY_BUFFER_START_ADDRESS::_drawbuffer	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	116;"	d	line:116
+GFX_HSYNC_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	203;"	d	line:203
+GFX_HSYNC_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	244;"	d	line:244
+GFX_HSYNC_POLARITY::GFX_ACTIVE_LOW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	208;"	d	line:208
+GFX_HSYNC_POLARITY::GFX_ACTIVE_LOW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	249;"	d	line:249
+GFX_LCD_TYPE::GFX_LCD_TFT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	201;"	d	line:201
+GFX_LCD_TYPE::GFX_LCD_TFT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	242;"	d	line:242
+GFX_PICTAIL_V3E	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	67;"	d	line:67
+GFX_VSYNC_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	204;"	d	line:204
+GFX_VSYNC_ENABLE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	245;"	d	line:245
+GFX_VSYNC_POLARITY::GFX_ACTIVE_LOW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	209;"	d	line:209
+GFX_VSYNC_POLARITY::GFX_ACTIVE_LOW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	250;"	d	line:250
+GRAPHICS_HW_CONFIG::CPLD_GFX_CONFIG_16BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	797;"	d	line:797
+GRAPHICS_HW_CONFIG::CPLD_GFX_CONFIG_8BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	799;"	d	line:799
+GetInstructionClock::(40000000L)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	45;"	d	line:45	file:
+GetInstructionClock::(GetSystemClock)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	76;"	d	line:76
+GetPeripheralClock::(GetSystemClock)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	75;"	d	line:75
+GetSystemClock::40000000UL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	73;"	d	line:73
+HB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119	struct:<anonymous>::__PACKED
+HB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	151;"	m	line:151	struct:<anonymous>::__PACKED
+HB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197	struct:<anonymous>::__PACKED
+HB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
+HB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
+HD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254	struct:<anonymous>::__PACKED
+HD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	468;"	m	line:468	struct:<anonymous>::__PACKED
+HPOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	600;"	m	line:600
+HW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192	struct:<anonymous>::__PACKED
+HW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259	struct:<anonymous>::__PACKED
+HW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
+HW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	473;"	m	line:473	struct:<anonymous>::__PACKED
+I2CADD::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	233;"	d	line:233
+I2CBRG::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	234;"	d	line:234
+I2CCON::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	229;"	d	line:229
+I2CCONBITS::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	230;"	d	line:230
+I2CRCV::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	236;"	d	line:236
+I2CSTAT::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	231;"	d	line:231
+I2CSTATBITS::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	232;"	d	line:232
+I2CTRN::XCAT(XCAT(WM8731DRV_I2C_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	235;"	d	line:235
+I2SBRG::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	268;"	d	line:268
+I2SBUF::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	267;"	d	line:267
+I2SCON2::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	263;"	d	line:263
+I2SCON2BITS::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	264;"	d	line:264
+I2SCON::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	261;"	d	line:261
+I2SCONBITS::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	262;"	d	line:262
+I2SInit	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	71;"	f	line:71	signature:(void)
+I2SInit	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	810;"	p	line:810	signature:(void)
+I2SSTAT::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	265;"	d	line:265
+I2SSTATBITS::XCAT(XCAT(WM8731DRV_I2S_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	266;"	d	line:266
+INIT_TRISB_VALUE::0x0000	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	240;"	d	line:240
+INSEL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	561;"	m	line:561
+INT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	72;"	t	line:72
+INT16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+INT32	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+INT64	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	79;"	t	line:79
+INT8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+ITRISC_SET_VALUE::0x0000	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	243;"	d	line:243
+IWL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	660;"	m	line:660
+IWL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	670;"	m	line:670
+IWL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	671;"	m	line:671
+Idle::{__asm__volatile("pwrsav#1");}	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	103;"	d	line:103
+LAT_XNEG::LATAbits.LATA2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	674;"	d	line:674
+LAT_XNEG::LATBbits.LATB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	562;"	d	line:562
+LAT_XNEG::LATBbits.LATB13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	692;"	d	line:692
+LAT_XNEG::LATCbits.LATC9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	589;"	d	line:589
+LAT_XNEG::LATCbits.LATC9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	632;"	d	line:632
+LAT_XNEG::LATDbits.LATD9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	654;"	d	line:654
+LAT_XNEG::LATGbits.LATG13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	605;"	d	line:605
+LAT_XNEG::LATGbits.LATG15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	651;"	d	line:651
+LAT_XPOS::LATBbits.LATB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	604;"	d	line:604
+LAT_XPOS::LATBbits.LATB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	647;"	d	line:647
+LAT_XPOS::LATBbits.LATB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	690;"	d	line:690
+LAT_XPOS::LATBbits.LATB13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	561;"	d	line:561
+LAT_XPOS::LATBbits.LATB3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	588;"	d	line:588
+LAT_XPOS::LATBbits.LATB3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	631;"	d	line:631
+LAT_XPOS::LATCbits.LATC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	672;"	d	line:672
+LAT_YNEG::LATAbits.LATA1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	681;"	d	line:681
+LAT_YNEG::LATBbits.LATB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	569;"	d	line:569
+LAT_YNEG::LATBbits.LATB12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	699;"	d	line:699
+LAT_YNEG::LATCbits.LATC8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	596;"	d	line:596
+LAT_YNEG::LATCbits.LATC8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	639;"	d	line:639
+LAT_YNEG::LATDbits.LATD8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	661;"	d	line:661
+LAT_YNEG::LATGbits.LATG12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	612;"	d	line:612
+LAT_YPOS::LATBbits.LATB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	611;"	d	line:611
+LAT_YPOS::LATBbits.LATB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	660;"	d	line:660
+LAT_YPOS::LATBbits.LATB12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	568;"	d	line:568
+LAT_YPOS::LATBbits.LATB14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	697;"	d	line:697
+LAT_YPOS::LATBbits.LATB2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	595;"	d	line:595
+LAT_YPOS::LATBbits.LATB2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	638;"	d	line:638
+LAT_YPOS::LATGbits.LATG7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	679;"	d	line:679
+LB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118	struct:<anonymous>::__PACKED
+LB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	150;"	m	line:150	struct:<anonymous>::__PACKED
+LB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196	struct:<anonymous>::__PACKED
+LB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	375;"	m	line:375	struct:<anonymous>::__PACKED
+LB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	411;"	m	line:411	struct:<anonymous>::__PACKED
+LD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253	struct:<anonymous>::__PACKED
+LD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	467;"	m	line:467	struct:<anonymous>::__PACKED
+LED_10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	811;"	e	line:811
+LED_2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	807;"	e	line:807
+LED_3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	808;"	e	line:808
+LED_4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	809;"	e	line:809
+LED_5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	810;"	e	line:810
+LHPVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	482;"	m	line:482
+LHPVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	491;"	m	line:491
+LHPVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	492;"	m	line:492
+LHPVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	493;"	m	line:493
+LHPVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	494;"	m	line:494
+LHPVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	495;"	m	line:495
+LHPVOL5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	496;"	m	line:496
+LHPVOL6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	497;"	m	line:497
+LINEINPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	629;"	m	line:629
+LINMUT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	418;"	m	line:418
+LINVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	417;"	m	line:417
+LINVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	424;"	m	line:424
+LINVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	425;"	m	line:425
+LINVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	426;"	m	line:426
+LINVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	427;"	m	line:427
+LINVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	428;"	m	line:428
+LONG	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	349;"	t	line:349
+LONGLONG	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	352;"	t	line:352
+LRCLK_PPS_SETUP::PPSInput(1,SS1,RPC7)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	68;"	d	line:68
+LRCLK_PPS_SETUP::PPSOutput(1,RPC7,SS1)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	64;"	d	line:64
+LRCLK_TRIS_SETUP::TRISCbits.TRISC7=0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	65;"	d	line:65
+LRCLK_TRIS_SETUP::TRISCbits.TRISC7=1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	69;"	d	line:69
+LRHPBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	486;"	m	line:486
+LRINBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	420;"	m	line:420
+LRP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	662;"	m	line:662
+LRSWAP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	663;"	m	line:663
+LW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191	struct:<anonymous>::__PACKED
+LW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258	struct:<anonymous>::__PACKED
+LW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	406;"	m	line:406	struct:<anonymous>::__PACKED
+LW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	472;"	m	line:472	struct:<anonymous>::__PACKED
+LZCEN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	485;"	m	line:485
+LeftChannel	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	339;"	m	line:339
+MAX_ADC_CHANNELS::13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	66;"	d	line:66
+MB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199	struct:<anonymous>::__PACKED
+MB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
+MDD_USE_SPI_2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	97;"	d	line:97
+MICBOOST	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	559;"	m	line:559
+MICPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	630;"	m	line:630
+MILLISECONDS_PER_TICK::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	80;"	d	line:80
+MMB_LED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	812;"	t	line:812
+MS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	664;"	m	line:664
+MUL_RESULT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	385;"	t	line:385
+MUTEMIC	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	560;"	m	line:560
+MW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261	struct:<anonymous>::__PACKED
+MW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
+Nop::__builtin_nop	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	100;"	d	line:100
+Nop::asm("NOP");	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	167;"	d	line:167
+Nop::asm("nop")	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	194;"	d	line:194
+NumBuffersRead	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	87;"	v	line:87	file:
+OSCPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	634;"	m	line:634
+OUTPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	633;"	m	line:633
+O_MODE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	774;"	t	line:774
+O_RDONLY	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	771;"	e	line:771
+O_RDWR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	773;"	e	line:773
+O_WRONLY	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	772;"	e	line:772
+OpenSPI::(config1,config2)OpenSPI1(conf	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	165;"	d	line:165
+OpenSPI::(config1,config2)OpenSPI2(conf	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	222;"	d	line:222
+PIC32MX220_STARTER_KIT_BOARD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	65;"	d	line:65
+PIC32_GP_SK_DM320001	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	70;"	d	line:70
+PING_PONG_BUFFER	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	355;"	t	line:355
+PING_TXDCHCON::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	276;"	d	line:276
+PING_TXDCHCONBITS::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	278;"	d	line:278
+PING_TXDCHCONCLR::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	279;"	d	line:279
+PING_TXDCHCONSET::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	277;"	d	line:277
+PING_TXDCHCPTR::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	291;"	d	line:291
+PING_TXDCHCSIZ::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	290;"	d	line:290
+PING_TXDCHDPTR::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	289;"	d	line:289
+PING_TXDCHDSA::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	285;"	d	line:285
+PING_TXDCHDSIZ::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	287;"	d	line:287
+PING_TXDCHECON::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	280;"	d	line:280
+PING_TXDCHECONBITS::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	281;"	d	line:281
+PING_TXDCHINT::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	282;"	d	line:282
+PING_TXDCHINTBITS::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	283;"	d	line:283
+PING_TXDCHSPTR::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	288;"	d	line:288
+PING_TXDCHSSA::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	284;"	d	line:284
+PING_TXDCHSSIZ::XCAT(XCAT(WM8731DRV_TX_DMA_PIN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	286;"	d	line:286
+PONG_TXDCHCON::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	293;"	d	line:293
+PONG_TXDCHCONBITS::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	295;"	d	line:295
+PONG_TXDCHCONCLR::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	296;"	d	line:296
+PONG_TXDCHCONSET::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	294;"	d	line:294
+PONG_TXDCHCPTR::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	308;"	d	line:308
+PONG_TXDCHCSIZ::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	307;"	d	line:307
+PONG_TXDCHDPTR::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	306;"	d	line:306
+PONG_TXDCHDSA::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	302;"	d	line:302
+PONG_TXDCHDSIZ::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	304;"	d	line:304
+PONG_TXDCHECON::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	297;"	d	line:297
+PONG_TXDCHECONBITS::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	298;"	d	line:298
+PONG_TXDCHINT::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	299;"	d	line:299
+PONG_TXDCHINTBITS::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	300;"	d	line:300
+PONG_TXDCHSPTR::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	305;"	d	line:305
+PONG_TXDCHSSA::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	301;"	d	line:301
+PONG_TXDCHSSIZ::XCAT(XCAT(WM8731DRV_TX_DMA_PON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	303;"	d	line:303
+POWEROFF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	636;"	m	line:636
+PRIVATE::static	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
+PROTECTED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
+PTR_BASE::unsignedlong	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	123;"	d	line:123
+PTR_BASE::unsignedshort	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	126;"	d	line:126
+PTR_BASE::unsignedshort	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	129;"	d	line:129
+PTR_BASE::unsignedshort	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	132;"	d	line:132
+PUBLIC::	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	67;"	d	line:67
+QWORD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	346;"	t	line:346
+QWORD_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	544;"	t	line:544
+RESET	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	747;"	m	line:747
+RESET0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	750;"	m	line:750
+RESET1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	751;"	m	line:751
+RESET2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	752;"	m	line:752
+RESET3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	753;"	m	line:753
+RESET4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	754;"	m	line:754
+RESET5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	755;"	m	line:755
+RESET6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	756;"	m	line:756
+RESET7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	757;"	m	line:757
+RESET8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	758;"	m	line:758
+RHPVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	521;"	m	line:521
+RHPVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	528;"	m	line:528
+RHPVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	529;"	m	line:529
+RHPVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	530;"	m	line:530
+RHPVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	531;"	m	line:531
+RHPVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	532;"	m	line:532
+RHPVOL5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	533;"	m	line:533
+RHPVOL6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	534;"	m	line:534
+RINMUT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	451;"	m	line:451
+RINVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	450;"	m	line:450
+RINVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	456;"	m	line:456
+RINVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	457;"	m	line:457
+RINVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	458;"	m	line:458
+RINVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	459;"	m	line:459
+RINVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	460;"	m	line:460
+RLHPBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	523;"	m	line:523
+RLINBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	453;"	m	line:453
+ROM::const	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	165;"	d	line:165
+ROM::const	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	175;"	d	line:175
+ROM::rom	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	160;"	d	line:160
+ROM_PTR_BASE::unsignedlong	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	124;"	d	line:124
+ROM_PTR_BASE::unsignedlong	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	133;"	d	line:133
+ROM_PTR_BASE::unsignedshort	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	127;"	d	line:127
+ROM_PTR_BASE::unsignedshortlong	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	130;"	d	line:130
+RTCC_DEFAULT_DAY::29	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	781;"	d	line:781
+RTCC_DEFAULT_HOUR::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	785;"	d	line:785
+RTCC_DEFAULT_MINUTE::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	786;"	d	line:786
+RTCC_DEFAULT_MONTH::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	782;"	d	line:782
+RTCC_DEFAULT_SECOND::01	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	787;"	d	line:787
+RTCC_DEFAULT_WEEKDAY::04	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	784;"	d	line:784
+RTCC_DEFAULT_YEAR::10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	783;"	d	line:783
+RXDCHCON::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	310;"	d	line:310
+RXDCHCONBITS::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	311;"	d	line:311
+RXDCHCPTR::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	322;"	d	line:322
+RXDCHCSIZ::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	321;"	d	line:321
+RXDCHDPTR::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	320;"	d	line:320
+RXDCHDSA::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	316;"	d	line:316
+RXDCHDSIZ::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	318;"	d	line:318
+RXDCHECON::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	312;"	d	line:312
+RXDCHECONBITS::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	313;"	d	line:313
+RXDCHINT::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	314;"	d	line:314
+RXDCHSPTR::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	319;"	d	line:319
+RXDCHSSA::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	315;"	d	line:315
+RXDCHSSIZ::XCAT(XCAT(WM8731DRV_RX_DMA_CHA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	317;"	d	line:317
+RX_TRIS::TRISCbits.TRISC0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	769;"	d	line:769
+RX_TRIS::TRISDbits.TRISD0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	772;"	d	line:772
+RX_TRIS::TRISFbits.TRISF4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	775;"	d	line:775
+RZCEN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	522;"	m	line:522
+ReadData	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	73;"	l	line:73
+Reset::SoftReset	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	188;"	d	line:188
+Reset::asm("RESET");	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	169;"	d	line:169
+Reset::asm("reset")	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	179;"	d	line:179
+RightChannel	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	340;"	m	line:340
+SCL_DIG::	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	749;"	d	line:749
+SCL_PORT::_RD8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	747;"	d	line:747
+SCL_TRIS::_TRISD8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	748;"	d	line:748
+SC_CS_HI::PMADDRSET=1<<SD_CS_ADDR_BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	111;"	d	line:111
+SDO_DIG::_ANSB1=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	753;"	d	line:753
+SDO_PORT::_RB1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	751;"	d	line:751
+SDO_TRIS::_TRISB1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	752;"	d	line:752
+SD_CD::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	180;"	d	line:180
+SD_CD::PORTFbits.RF0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	119;"	d	line:119
+SD_CD_TRIS::TRISBbits.TRISB14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	183;"	d	line:183
+SD_CD_TRIS::TRISFbits.TRISF0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	121;"	d	line:121
+SD_CS_ADDR_BIT::4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	169;"	d	line:169
+SD_CS_HI::LATBbits.LATB1=1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	114;"	d	line:114
+SD_CS_HI::LATCbits.LATC4=1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	175;"	d	line:175
+SD_CS_HI::PMADDRSET=1<<SD_CS_ADDR_BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	172;"	d	line:172
+SD_CS_LO::LATBbits.LATB1=0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	113;"	d	line:113
+SD_CS_LO::LATCbits.LATC4=0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	174;"	d	line:174
+SD_CS_LO::PMADDRCLR=1<<SD_CS_ADDR_BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	110;"	d	line:110
+SD_CS_LO::PMADDRCLR=1<<SD_CS_ADDR_BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	171;"	d	line:171
+SD_CS_TRIS::TRISBbits.TRISB1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	116;"	d	line:116
+SD_CS_TRIS::TRISCbits.TRISC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	177;"	d	line:177
+SD_WE::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	187;"	d	line:187
+SD_WE::PORTFbits.RF1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	124;"	d	line:124
+SD_WE_TRIS::TRISBbits.TRISB13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	190;"	d	line:190
+SD_WE_TRIS::TRISFbits.TRISF1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	126;"	d	line:126
+SET	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+SET_CS::1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	288;"	d	line:288
+SET_CS::1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	362;"	d	line:362
+SET_CS::LATDSET=_LATD_LATD11_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	329;"	d	line:329
+SET_RD::LATDSET=_LATD_LATD5_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	334;"	d	line:334
+SET_RD::PORTBbits.RB13=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	295;"	d	line:295
+SET_RD::PORTBbits.RB13=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	367;"	d	line:367
+SET_RESET::LATCSET=_LATC_LATC1_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	340;"	d	line:340
+SET_RESET::LATCbits.LATC5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	307;"	d	line:307
+SET_RESET::LATCbits.LATC5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	373;"	d	line:373
+SET_RESET::PMADDRSET=1<<DISPLAY_RESET_ADD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	304;"	d	line:304
+SET_RS::LATBSET=_LATB_LATB15_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	332;"	d	line:332
+SET_RS::LATBbits.LATB5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	292;"	d	line:292
+SET_RS::LATBbits.LATB5=1;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	365;"	d	line:365
+SET_WR::LATBbits.LATB3=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	299;"	d	line:299
+SET_WR::LATBbits.LATB3=0;	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	370;"	d	line:370
+SET_WR::LATDSET=_LATD_LATD4_MASK	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	337;"	d	line:337
+SHORT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	348;"	t	line:348
+SIDEATT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	565;"	m	line:565
+SIDEATT0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	569;"	m	line:569
+SIDEATT1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	570;"	m	line:570
+SIDETONE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	564;"	m	line:564
+SPIBRG::SPI1BRG	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	143;"	d	line:143
+SPIBRG::SPI2BRG	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	208;"	d	line:208
+SPIBRG::XCAT(XCAT(WM8731DRV_SPI_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	257;"	d	line:257
+SPIBUF::SPI1BUF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	133;"	d	line:133
+SPIBUF::SPI2BUF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	198;"	d	line:198
+SPIBUF::XCAT(XCAT(WM8731DRV_SPI_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	256;"	d	line:256
+SPICLOCK::TRISBbits.TRISB15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	213;"	d	line:213
+SPICLOCK::TRISDbits.TRISD10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	148;"	d	line:148
+SPICLOCK::TRISFbits.TRISF6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	155;"	d	line:155
+SPICON1::SPI1CON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	129;"	d	line:129
+SPICON1::SPI2CON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	194;"	d	line:194
+SPICON1bits::SPI1CONbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	137;"	d	line:137
+SPICON1bits::SPI2CONbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	202;"	d	line:202
+SPICON::XCAT(XCAT(WM8731DRV_SPI_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	252;"	d	line:252
+SPICONBITS::XCAT(XCAT(WM8731DRV_SPI_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	253;"	d	line:253
+SPIENABLE::SPI2CONbits.ON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	206;"	d	line:206
+SPIENABLE::SPICON1bits.ON	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	141;"	d	line:141
+SPIIN::TRISAbits.TRISA4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	215;"	d	line:215
+SPIIN::TRISCbits.TRISC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	150;"	d	line:150
+SPIIN::TRISFbits.TRISF7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	157;"	d	line:157
+SPIOUT::TRISAbits.TRISA8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	217;"	d	line:217
+SPIOUT::TRISDbits.TRISD0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	152;"	d	line:152
+SPIOUT::TRISFbits.TRISF8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	159;"	d	line:159
+SPISTAT::SPI1STAT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	131;"	d	line:131
+SPISTAT::SPI2STAT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	196;"	d	line:196
+SPISTAT::XCAT(XCAT(WM8731DRV_SPI_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	254;"	d	line:254
+SPISTATBITS::XCAT(XCAT(WM8731DRV_SPI_MODULE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	255;"	d	line:255
+SPISTAT_RBF::SPI1STATbits.SPIRBF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	135;"	d	line:135
+SPISTAT_RBF::SPI2STATbits.SPIRBF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	200;"	d	line:200
+SPISTATbits::SPI1STATbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	139;"	d	line:139
+SPISTATbits::SPI2STATbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	204;"	d	line:204
+SPI_FLASH_CHANNEL::CPLD_SPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	468;"	d	line:468
+SPI_FLASH_CHANNEL::CPLD_SPI2A	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	472;"	d	line:472
+SPI_FLASH_CHANNEL::CPLD_SPI3A	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	476;"	d	line:476
+SPI_FREQUENCY::(20000000)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	104;"	d	line:104
+SPI_START_CFG_1::(PRI_PRESCAL_64_1|SEC_PRESCAL_	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	100;"	d	line:100
+SPI_START_CFG_2::(SPI_ENABLE)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	101;"	d	line:101
+SR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	705;"	m	line:705
+SR0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	711;"	m	line:711
+SR1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	712;"	m	line:712
+SR2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	713;"	m	line:713
+SR3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	714;"	m	line:714
+SRC_IN_PROC_SIZE::512	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	52;"	d	line:52
+SST25_CS_LAT::LATAbits.LATA14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	446;"	d	line:446
+SST25_CS_LAT::LATAbits.LATA8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	431;"	d	line:431
+SST25_CS_LAT::LATDbits.LATD1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	437;"	d	line:437
+SST25_CS_LAT::LATFbits.LATF12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	475;"	d	line:475
+SST25_CS_LAT::LATGbits.LATG9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	467;"	d	line:467
+SST25_CS_LAT::LATGbits.LATG9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	471;"	d	line:471
+SST25_CS_TRIS::TRISAbits.TRISA14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	445;"	d	line:445
+SST25_CS_TRIS::TRISAbits.TRISA8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	430;"	d	line:430
+SST25_CS_TRIS::TRISDbits.TRISD1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	436;"	d	line:436
+SST25_CS_TRIS::TRISFbits.TRISF12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	474;"	d	line:474
+SST25_CS_TRIS::TRISGbits.TRISG9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	466;"	d	line:466
+SST25_CS_TRIS::TRISGbits.TRISG9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	470;"	d	line:470
+SST25_SCK_TRIS::TRISCbits.TRISC2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	432;"	d	line:432
+SST25_SCK_TRIS::TRISDbits.TRISD8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	447;"	d	line:447
+SST25_SCK_TRIS::TRISGbits.TRISG6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	438;"	d	line:438
+SST25_SDI_ANS::ANSBbits.ANSB0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	450;"	d	line:450
+SST25_SDI_ANS::ANSGbits.ANSG7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	441;"	d	line:441
+SST25_SDI_TRIS::TRISBbits.TRISB0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	449;"	d	line:449
+SST25_SDI_TRIS::TRISCbits.TRISC1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	434;"	d	line:434
+SST25_SDI_TRIS::TRISGbits.TRISG7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	440;"	d	line:440
+SST25_SDO_ANS::ANSBbits.ANSB1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	451;"	d	line:451
+SST25_SDO_TRIS::TRISBbits.TRISB1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	448;"	d	line:448
+SST25_SDO_TRIS::TRISCbits.TRISC0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	433;"	d	line:433
+SST25_SDO_TRIS::TRISGbits.TRISG8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	439;"	d	line:439
+SST39_A16_LAT::LATCbits.LATC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	506;"	d	line:506
+SST39_A16_LAT::LATDbits.LATD3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	496;"	d	line:496
+SST39_A16_LAT::LATGbits.LATG14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	515;"	d	line:515
+SST39_A16_TRIS::TRISCbits.TRISC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	505;"	d	line:505
+SST39_A16_TRIS::TRISDbits.TRISD3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	495;"	d	line:495
+SST39_A16_TRIS::TRISGbits.TRISG14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	514;"	d	line:514
+SST39_A17_LAT::LATBbits.LATB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	494;"	d	line:494
+SST39_A17_LAT::LATCbits.LATC5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	504;"	d	line:504
+SST39_A17_LAT::LATGbits.LATG15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	513;"	d	line:513
+SST39_A17_TRIS::TRISBbits.TRISB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	493;"	d	line:493
+SST39_A17_TRIS::TRISCbits.TRISC5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	503;"	d	line:503
+SST39_A17_TRIS::TRISGbits.TRISG15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	512;"	d	line:512
+SST39_A18_LAT::LATAbits.LATA1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	502;"	d	line:502
+SST39_A18_LAT::LATBbits.LATB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	492;"	d	line:492
+SST39_A18_LAT::LATCbits.LATC2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	511;"	d	line:511
+SST39_A18_TRIS::TRISAbits.TRISA1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	501;"	d	line:501
+SST39_A18_TRIS::TRISBbits.TRISB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	491;"	d	line:491
+SST39_A18_TRIS::TRISCbits.TRISC2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	510;"	d	line:510
+SST39_CS_LAT::LATAbits.LATA8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	500;"	d	line:500
+SST39_CS_LAT::LATDbits.LATD1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	509;"	d	line:509
+SST39_CS_LAT::LATDbits.LATD9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	490;"	d	line:490
+SST39_CS_TRIS::TRISAbits.TRISA8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	499;"	d	line:499
+SST39_CS_TRIS::TRISDbits.TRISD1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	508;"	d	line:508
+SST39_CS_TRIS::TRISDbits.TRISD9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	489;"	d	line:489
+STEREO_AUDIO_DATA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	344;"	t	line:344
+SYS_FREQ::(40000000UL)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	74;"	d	line:74
+SetLEDDirection	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	814;"	f	line:814	signature:(void)
+Sleep::{__asm__volatile("pwrsav#0");}	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	102;"	d	line:102
+StereoDataIn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	72;"	v	line:72
+TIMER_PERIOD::37500	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	82;"	d	line:82
+TIMER_PRESCALER::TIMER_PRESCALER_8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	81;"	d	line:81
+TOUCH_ADC_DONE::AD1CON1bits.DONE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	524;"	d	line:524
+TRISA_SET_VALUE::(1<<7)|(1<<9)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	235;"	d	line:235
+TRISB_SET_VALUE::1<<4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	238;"	d	line:238
+TRIS_XNEG::AD1PCFGbits.PCFG13=1,TRISBbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	693;"	d	line:693
+TRIS_XNEG::TRISAbits.TRISA2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	675;"	d	line:675
+TRIS_XNEG::TRISBbits.TRISB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	564;"	d	line:564
+TRIS_XNEG::TRISCbits.TRISC9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	591;"	d	line:591
+TRIS_XNEG::TRISCbits.TRISC9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	634;"	d	line:634
+TRIS_XNEG::TRISDbits.TRISD9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	655;"	d	line:655
+TRIS_XNEG::TRISGbits.TRISG13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	607;"	d	line:607
+TRIS_XNEG::TRISGbits.TRISG15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	652;"	d	line:652
+TRIS_XPOS::TRISBbits.TRISB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	606;"	d	line:606
+TRIS_XPOS::TRISBbits.TRISB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	648;"	d	line:648
+TRIS_XPOS::TRISBbits.TRISB11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	691;"	d	line:691
+TRIS_XPOS::TRISBbits.TRISB13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	563;"	d	line:563
+TRIS_XPOS::TRISBbits.TRISB3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	590;"	d	line:590
+TRIS_XPOS::TRISBbits.TRISB3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	633;"	d	line:633
+TRIS_XPOS::TRISCbits.TRISC4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	673;"	d	line:673
+TRIS_YNEG::AD1PCFGbits.PCFG12=1,TRISBbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	700;"	d	line:700
+TRIS_YNEG::TRISAbits.TRISA1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	682;"	d	line:682
+TRIS_YNEG::TRISBbits.TRISB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	571;"	d	line:571
+TRIS_YNEG::TRISCbits.TRISC8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	598;"	d	line:598
+TRIS_YNEG::TRISCbits.TRISC8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	641;"	d	line:641
+TRIS_YNEG::TRISDbits.TRISD8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	663;"	d	line:663
+TRIS_YNEG::TRISGbits.TRISG12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	614;"	d	line:614
+TRIS_YPOS::TRISBbits.TRISB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	613;"	d	line:613
+TRIS_YPOS::TRISBbits.TRISB10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	662;"	d	line:662
+TRIS_YPOS::TRISBbits.TRISB12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	570;"	d	line:570
+TRIS_YPOS::TRISBbits.TRISB14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	698;"	d	line:698
+TRIS_YPOS::TRISBbits.TRISB2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	597;"	d	line:597
+TRIS_YPOS::TRISBbits.TRISB2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	640;"	d	line:640
+TRIS_YPOS::TRISGbits.TRISG7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	680;"	d	line:680
+TRUE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+TX_TRIS::TRISCbits.TRISC1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	768;"	d	line:768
+TX_TRIS::TRISFbits.TRISF3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	771;"	d	line:771
+TX_TRIS::TRISFbits.TRISF5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	774;"	d	line:774
+ToggleLED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	858;"	f	line:858	signature:(MMB_LED led)
+TurnLEDAllOff	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	887;"	f	line:887	signature:(void)
+TurnLEDAllOn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	877;"	f	line:877	signature:(void)
+TurnLEDOff	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	839;"	f	line:839	signature:(MMB_LED led)
+TurnLEDOn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	820;"	f	line:820	signature:(MMB_LED led)
+UB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	152;"	m	line:152	struct:<anonymous>::__PACKED
+UB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198	struct:<anonymous>::__PACKED
+UB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
+UCHAR8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	339;"	t	line:339
+UINT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	83;"	t	line:83
+UINT16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT16_BITS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	140;"	t	line:140
+UINT16_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	140;"	t	line:140
+UINT24	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	88;"	t	line:88
+UINT24_BITS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	181;"	t	line:181
+UINT24_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	181;"	t	line:181
+UINT32	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	90;"	t	line:90
+UINT32_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	241;"	t	line:241
+UINT64	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	93;"	t	line:93
+UINT64_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	330;"	t	line:330
+UINT8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UINT8_BITS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	110;"	t	line:110
+UINT8_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	110;"	t	line:110
+USB_NORMAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	702;"	m	line:702
+USE_8BIT_PMP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	69;"	d	line:69
+USE_GFX_EPMP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	131;"	d	line:131
+USE_GFX_PMP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	133;"	d	line:133
+USE_SD_INTERFACE_WITH_SPI	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	89;"	d	line:89
+USE_SST25_SPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	401;"	d	line:401
+USE_SST25_SPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	428;"	d	line:428
+USE_SST25_SPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	444;"	d	line:444
+USE_SST25_SPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	455;"	d	line:455
+USE_SST25_SPI2A	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	457;"	d	line:457
+USE_SST25_SPI3A	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	459;"	d	line:459
+UW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260	struct:<anonymous>::__PACKED
+UW	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
+VOID	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	336;"	t	line:336
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	114;"	m	line:114
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	146;"	m	line:146
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	355;"	m	line:355
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	371;"	m	line:371
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	401;"	m	line:401
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	461;"	m	line:461
+Val	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	98;"	m	line:98
+WM8731CodecIOCtl	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	223;"	f	line:223	signature:(WM8731_CODEC * codecHandle, WM8731_REGISTER commandRegister, void * data)
+WM8731CodecIOCtl	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	802;"	p	line:802	signature:(WM8731_CODEC * codecHandle, WM8731_REGISTER commandRegister, void * data)
+WM8731CodecLoadStartup	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	247;"	f	line:247	signature:(WM8731_CODEC * pCodecHandle)
+WM8731CodecLoadStartup	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	815;"	p	line:815	signature:(WM8731_CODEC * codecHandle)
+WM8731CodecOpen	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	789;"	p	line:789	signature:(WM8731_CODEC * codecHandle, STEREO_AUDIO_DATA* txBuffer, STEREO_AUDIO_DATA * rxBuffer, O_MODE mode)
+WM8731CodecSetVolume	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	354;"	f	line:354	signature:( WM8731_CODEC * pCodecHandle, UINT16 Volume_In_dB )
+WM8731CodecSetVolume	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	817;"	p	line:817	signature:( WM8731_CODEC * pCodecHandle, UINT16 Volume_In_dB )
+WM8731Codec_MusicOn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	819;"	p	line:819	signature:( BOOL MusicOn )
+WM8731Codec_MusicOn	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	90;"	f	line:90	signature:( BOOL MusicOn )
+WM8731Codec_Reset	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	829;"	p	line:829	signature:(void)
+WM8731Codec_Reset	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	102;"	f	line:102	signature:(void)
+WM8731Codec_read	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	794;"	p	line:794	signature:(WM8731_CODEC * codecHandle, STEREO_AUDIO_DATA * data, UINT nSamples)
+WM8731Codec_write	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	798;"	p	line:798	signature:(WM8731_CODEC * codecHandle, STEREO_AUDIO_DATA * data, UINT nSamples)
+WM8731DRV_BUFFER_DESC::PING_PONG_BUFFER	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	357;"	d	line:357
+WM8731DRV_CMD_MODULE::SPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	82;"	d	line:82
+WM8731DRV_CMD_SPI_CHANNEL::SPI_CHANNEL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	83;"	d	line:83
+WM8731DRV_DMA_SPI_RX_IRQ::_SPI1_RX_IRQ	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	167;"	d	line:167
+WM8731DRV_DMA_SPI_RX_IRQ::_SPI1_RX_IRQ	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	169;"	d	line:169
+WM8731DRV_DMA_TX_IRQ::_SPI1_TX_IRQ	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	114;"	d	line:114
+WM8731DRV_DMA_TX_IRQ::_SPI1_TX_IRQ	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	132;"	d	line:132
+WM8731DRV_GetSongElapsedTime	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	825;"	p	line:825	signature:(void)
+WM8731DRV_I2C2_SDA_LAT::LATAbits.LATA3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	781;"	d	line:781
+WM8731DRV_I2C2_SDA_TRIS::TRISAbits.TRISA3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	782;"	d	line:782
+WM8731DRV_I2CBAUD::((WM8731DRV_SYSTEM_CLOCK/(2*WM	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	330;"	d	line:330
+WM8731DRV_I2C_ADDR::0x34	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	206;"	d	line:206
+WM8731DRV_I2C_SPEED::100000	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	329;"	d	line:329
+WM8731DRV_I2S_MODULE::SPI1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	61;"	d	line:61
+WM8731DRV_RX_BUFFER_SIZE::0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	192;"	d	line:192
+WM8731DRV_RX_DMA_CHANNEL::DCH2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	103;"	d	line:103
+WM8731DRV_SYSTEM_CLOCK::40000000	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	198;"	d	line:198
+WM8731DRV_SetBufferCount	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	823;"	p	line:823	signature:( UINT32 Nbuffers )
+WM8731DRV_TX_BUFFER_SIZE::(1152*2)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	182;"	d	line:182
+WM8731DRV_TX_DMA_PING_CHANNEL::DCH0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	92;"	d	line:92
+WM8731DRV_TX_DMA_PONG_CHANNEL::DCH1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	93;"	d	line:93
+WM8731DRV_TX_PING_DMA_INT_ENABLE::IEC1bits.DMA0IE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	126;"	d	line:126
+WM8731DRV_TX_PING_DMA_INT_ENABLE::IEC1bits.DMA0IE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	144;"	d	line:144
+WM8731DRV_TX_PING_DMA_INT_FLAG::IFS1bits.DMA0IF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	125;"	d	line:125
+WM8731DRV_TX_PING_DMA_INT_FLAG::IFS1bits.DMA0IF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	143;"	d	line:143
+WM8731DRV_TX_PING_DMA_INT_PRIORITY::IPC10bits.DMA0IP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	127;"	d	line:127
+WM8731DRV_TX_PING_DMA_INT_PRIORITY::IPC10bits.DMA0IP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	145;"	d	line:145
+WM8731DRV_TX_PING_DMA_INT_SUB_PRIORITY::IPC10bits.DMA0IS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	128;"	d	line:128
+WM8731DRV_TX_PING_DMA_INT_SUB_PRIORITY::IPC10bits.DMA0IS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	146;"	d	line:146
+WM8731DRV_TX_PING_DMA_IPL::ipl5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	124;"	d	line:124
+WM8731DRV_TX_PING_DMA_IPL::ipl5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	142;"	d	line:142
+WM8731DRV_TX_PING_DMA_VECTOR::_DMA_0_VECTOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	123;"	d	line:123
+WM8731DRV_TX_PING_DMA_VECTOR::_DMA_0_VECTOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	141;"	d	line:141
+WM8731DRV_TX_PONG_DMA_INT_ENABLE::IEC1bits.DMA1IE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	119;"	d	line:119
+WM8731DRV_TX_PONG_DMA_INT_ENABLE::IEC1bits.DMA1IE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	137;"	d	line:137
+WM8731DRV_TX_PONG_DMA_INT_FLAG::IFS1bits.DMA1IF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	118;"	d	line:118
+WM8731DRV_TX_PONG_DMA_INT_FLAG::IFS1bits.DMA1IF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	136;"	d	line:136
+WM8731DRV_TX_PONG_DMA_INT_PRIORITY::IPC10bits.DMA1IP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	120;"	d	line:120
+WM8731DRV_TX_PONG_DMA_INT_PRIORITY::IPC10bits.DMA1IP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	138;"	d	line:138
+WM8731DRV_TX_PONG_DMA_INT_SUB_PRIORITY::IPC10bits.DMA1IS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	121;"	d	line:121
+WM8731DRV_TX_PONG_DMA_INT_SUB_PRIORITY::IPC10bits.DMA1IS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	139;"	d	line:139
+WM8731DRV_TX_PONG_DMA_IPL::ipl5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	117;"	d	line:117
+WM8731DRV_TX_PONG_DMA_IPL::ipl5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	135;"	d	line:135
+WM8731DRV_TX_PONG_DMA_VECTOR::_DMA_1_VECTOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	116;"	d	line:116
+WM8731DRV_TX_PONG_DMA_VECTOR::_DMA_1_VECTOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	134;"	d	line:134
+WM8731DRV_TX_XFER_DONE_INT_ENABLE::IEC1bits.SPI1TXIE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	152;"	d	line:152
+WM8731DRV_TX_XFER_DONE_INT_FLAG::IFS1bits.SPI1TXIF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	151;"	d	line:151
+WM8731DRV_TX_XFER_DONE_INT_PRIORITY::IPC7bits.SPI1IP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	153;"	d	line:153
+WM8731DRV_TX_XFER_DONE_INT_SUB_PRIORITY::IPC7bits.SPI1IS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	154;"	d	line:154
+WM8731DRV_TX_XFER_DONE_IPL::IPL4SOFT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	150;"	d	line:150
+WM8731DRV_TX_XFER_DONE_VECTOR::_SPI_1_VECTOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	149;"	d	line:149
+WM8731DRV_WhatsTheNewWavFile	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	821;"	p	line:821	signature:( FSFILE * NewWavFile )
+WM8731_ACTIVE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	403;"	e	line:403
+WM8731_ACTIVEbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	262;"	l	line:262
+WM8731_APANA	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	398;"	e	line:398
+WM8731_APANA_BYPASS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	581;"	e	line:581
+WM8731_APANA_DACSEL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	582;"	e	line:582
+WM8731_APANA_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	591;"	t	line:591
+WM8731_APANA_INSEL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	580;"	e	line:580
+WM8731_APANA_MICBOOST	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	578;"	e	line:578
+WM8731_APANA_MUTEMIC	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	579;"	e	line:579
+WM8731_APANA_SIDEATT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	584;"	e	line:584
+WM8731_APANA_SIDEATT0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	585;"	e	line:585
+WM8731_APANA_SIDEATT1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	586;"	e	line:586
+WM8731_APANA_SIDEATT_12dB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	588;"	e	line:588
+WM8731_APANA_SIDEATT_15dB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	587;"	e	line:587
+WM8731_APANA_SIDEATT_6dB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	590;"	e	line:590
+WM8731_APANA_SIDEATT_9dB	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	589;"	e	line:589
+WM8731_APANA_SIDETONE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	583;"	e	line:583
+WM8731_APANAbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	256;"	l	line:256
+WM8731_APDIGI	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	399;"	e	line:399
+WM8731_APDIGI_ADCHPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	613;"	e	line:613
+WM8731_APDIGI_DACMU	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	621;"	e	line:621
+WM8731_APDIGI_DEEMPH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	614;"	e	line:614
+WM8731_APDIGI_DEEMPH0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	615;"	e	line:615
+WM8731_APDIGI_DEEMPH1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	616;"	e	line:616
+WM8731_APDIGI_DEEMPH_32kHz	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	619;"	e	line:619
+WM8731_APDIGI_DEEMPH_44p1kHz	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	618;"	e	line:618
+WM8731_APDIGI_DEEMPH_48kHz	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	617;"	e	line:617
+WM8731_APDIGI_DEEMPH_None	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	620;"	e	line:620
+WM8731_APDIGI_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	623;"	t	line:623
+WM8731_APDIGI_HPOR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	622;"	e	line:622
+WM8731_APDIGIbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	257;"	l	line:257
+WM8731_CODEC	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	375;"	t	line:375
+WM8731_IFACE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	401;"	e	line:401
+WM8731_IFACE_BCLKINV	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	695;"	e	line:695
+WM8731_IFACE_FORMAT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	679;"	e	line:679
+WM8731_IFACE_FORMAT0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	680;"	e	line:680
+WM8731_IFACE_FORMAT1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	681;"	e	line:681
+WM8731_IFACE_FORMAT_DSP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	682;"	e	line:682
+WM8731_IFACE_FORMAT_I2S	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	683;"	e	line:683
+WM8731_IFACE_FORMAT_LJ	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	684;"	e	line:684
+WM8731_IFACE_FORMAT_RJ	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	685;"	e	line:685
+WM8731_IFACE_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	696;"	t	line:696
+WM8731_IFACE_IWL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	686;"	e	line:686
+WM8731_IFACE_IWL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	687;"	e	line:687
+WM8731_IFACE_IWL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	688;"	e	line:688
+WM8731_IFACE_IWL_16bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	692;"	e	line:692
+WM8731_IFACE_IWL_20bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	691;"	e	line:691
+WM8731_IFACE_IWL_24bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	690;"	e	line:690
+WM8731_IFACE_IWL_32bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	689;"	e	line:689
+WM8731_IFACE_LRP	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	693;"	e	line:693
+WM8731_IFACE_MS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	694;"	e	line:694
+WM8731_IFACEbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	259;"	l	line:259
+WM8731_LINVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	394;"	e	line:394
+WM8731_LINVOL_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	444;"	t	line:444
+WM8731_LINVOL_LINMUTE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	442;"	e	line:442
+WM8731_LINVOL_LINVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	436;"	e	line:436
+WM8731_LINVOL_LINVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	437;"	e	line:437
+WM8731_LINVOL_LINVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	438;"	e	line:438
+WM8731_LINVOL_LINVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	439;"	e	line:439
+WM8731_LINVOL_LINVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	440;"	e	line:440
+WM8731_LINVOL_LINVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	441;"	e	line:441
+WM8731_LINVOL_LRINBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	443;"	e	line:443
+WM8731_LINVOLbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	252;"	l	line:252
+WM8731_LOUT1V	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	396;"	e	line:396
+WM8731_LOUT1V_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	515;"	t	line:515
+WM8731_LOUT1V_LHPVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	505;"	e	line:505
+WM8731_LOUT1V_LHPVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	506;"	e	line:506
+WM8731_LOUT1V_LHPVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	507;"	e	line:507
+WM8731_LOUT1V_LHPVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	508;"	e	line:508
+WM8731_LOUT1V_LHPVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	509;"	e	line:509
+WM8731_LOUT1V_LHPVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	510;"	e	line:510
+WM8731_LOUT1V_LHPVOL5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	511;"	e	line:511
+WM8731_LOUT1V_LHPVOL6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	512;"	e	line:512
+WM8731_LOUT1V_LRHPBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	514;"	e	line:514
+WM8731_LOUT1V_LZCEN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	513;"	e	line:513
+WM8731_LOUT1Vbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	254;"	l	line:254
+WM8731_LOUT1Vbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	357;"	l	line:357
+WM8731_MusicOnOff	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	827;"	p	line:827	signature:(void)
+WM8731_MusicOnOff	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	96;"	f	line:96	signature:(void)
+WM8731_PWR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	400;"	e	line:400
+WM8731_PWR_ADCPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	646;"	e	line:646
+WM8731_PWR_CLKOUTPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	650;"	e	line:650
+WM8731_PWR_DACPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	647;"	e	line:647
+WM8731_PWR_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	652;"	t	line:652
+WM8731_PWR_LINEINPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	644;"	e	line:644
+WM8731_PWR_MICPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	645;"	e	line:645
+WM8731_PWR_OSCPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	649;"	e	line:649
+WM8731_PWR_OUTPD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	648;"	e	line:648
+WM8731_PWR_POWEROFF	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	651;"	e	line:651
+WM8731_PWRbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	258;"	l	line:258
+WM8731_REGISTER	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	406;"	t	line:406
+WM8731_RESET	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	404;"	e	line:404
+WM8731_RESETbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	263;"	l	line:263
+WM8731_RINVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	395;"	e	line:395
+WM8731_RINVOL_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	476;"	t	line:476
+WM8731_RINVOL_RINMUTE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	474;"	e	line:474
+WM8731_RINVOL_RINVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	468;"	e	line:468
+WM8731_RINVOL_RINVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	469;"	e	line:469
+WM8731_RINVOL_RINVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	470;"	e	line:470
+WM8731_RINVOL_RINVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	471;"	e	line:471
+WM8731_RINVOL_RINVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	472;"	e	line:472
+WM8731_RINVOL_RINVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	473;"	e	line:473
+WM8731_RINVOL_RLINBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	475;"	e	line:475
+WM8731_RINVOLbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	253;"	l	line:253
+WM8731_ROUT1V	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	397;"	e	line:397
+WM8731_ROUT1V_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	553;"	t	line:553
+WM8731_ROUT1V_RHPVOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	542;"	e	line:542
+WM8731_ROUT1V_RHPVOL0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	543;"	e	line:543
+WM8731_ROUT1V_RHPVOL1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	544;"	e	line:544
+WM8731_ROUT1V_RHPVOL2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	545;"	e	line:545
+WM8731_ROUT1V_RHPVOL3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	546;"	e	line:546
+WM8731_ROUT1V_RHPVOL4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	547;"	e	line:547
+WM8731_ROUT1V_RHPVOL5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	548;"	e	line:548
+WM8731_ROUT1V_RHPVOL6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	549;"	e	line:549
+WM8731_ROUT1V_RLHPBOTH	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	551;"	e	line:551
+WM8731_ROUT1V_RZCEN	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	550;"	e	line:550
+WM8731_ROUT1Vbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	255;"	l	line:255
+WM8731_ROUT1Vbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	358;"	l	line:358
+WM8731_SRATE	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	402;"	e	line:402
+WM8731_SRATE_BOSR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	723;"	e	line:723
+WM8731_SRATE_CLKIDIV2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	729;"	e	line:729
+WM8731_SRATE_CLKODIV2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	730;"	e	line:730
+WM8731_SRATE_Flags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	731;"	t	line:731
+WM8731_SRATE_SR	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	724;"	e	line:724
+WM8731_SRATE_SR0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	725;"	e	line:725
+WM8731_SRATE_SR1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	726;"	e	line:726
+WM8731_SRATE_SR2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	727;"	e	line:727
+WM8731_SRATE_SR3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	728;"	e	line:728
+WM8731_SRATE_USB_NORMAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	722;"	e	line:722
+WM8731_SRATEbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	261;"	l	line:261
+WORD	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	342;"	t	line:342
+WORD_BITS	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	397;"	t	line:397
+WORD_VAL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	397;"	t	line:397
+XCAT::(x,y)CAT(x,y)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	219;"	d	line:219
+_BIT	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
+_BOOL	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	64;"	g	line:64
+_WM8731_ACTIVEbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	742;"	t	line:742
+_WM8731_APANAbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	575;"	t	line:575
+_WM8731_APDIGIbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	610;"	t	line:610
+_WM8731_DRV_H_	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	41;"	d	line:41
+_WM8731_IFACEbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	676;"	t	line:676
+_WM8731_LINVOLbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	433;"	t	line:433
+_WM8731_LOUT1Vbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	502;"	t	line:502
+_WM8731_PWRbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	641;"	t	line:641
+_WM8731_RESETbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	763;"	t	line:763
+_WM8731_RINVOLbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	465;"	t	line:465
+_WM8731_ROUT1Vbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	539;"	t	line:539
+_WM8731_SRATEbits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	719;"	t	line:719
+__18CXX	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	66;"	d	line:66
+__C32__	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	107;"	d	line:107
+__COMPILER_H	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	56;"	d	line:56
+__EXTENSION	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	546;"	d	line:546
+__EXTENSION	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	54;"	d	line:54
+__EXTENSION::__extension__	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	52;"	d	line:52
+__GENERIC_TYPE_DEFS_H_	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	48;"	d	line:48
+__HARDWARE_PROFILE_GFX_ADK_H	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile_GFX_ADK.h	54;"	d	line:54
+__HARDWARE_PROFILE_H	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	55;"	d	line:55
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	116;"	s	line:116
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	121;"	s	line:121
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	148;"	s	line:148
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	154;"	s	line:154
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	187;"	m	line:187
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	188;"	m	line:188
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	189;"	s	line:189
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	194;"	s	line:194
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	201;"	s	line:201
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	206;"	s	line:206
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	251;"	s	line:251
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	256;"	s	line:256
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	263;"	s	line:263
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	356;"	s	line:356
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	373;"	s	line:373
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	378;"	s	line:378
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	404;"	s	line:404
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	409;"	s	line:409
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	416;"	s	line:416
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	421;"	s	line:421
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	462;"	m	line:462
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	463;"	m	line:463
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	464;"	m	line:464
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	465;"	s	line:465
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	470;"	s	line:470
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	477;"	s	line:477
+__PACKED	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	58;"	d	line:58
+__attribute__::(a)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	154;"	d	line:154
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	101;"	m	line:101
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	123;"	m	line:123	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	156;"	m	line:156	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	358;"	m	line:358	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	380;"	m	line:380	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	423;"	m	line:423	struct:<anonymous>::__PACKED
+b0	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	479;"	m	line:479	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	124;"	m	line:124	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	157;"	m	line:157	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	424;"	m	line:424	struct:<anonymous>::__PACKED
+b1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	133;"	m	line:133	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	218;"	m	line:218	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	275;"	m	line:275	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	433;"	m	line:433	struct:<anonymous>::__PACKED
+b10	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	219;"	m	line:219	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	276;"	m	line:276	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	434;"	m	line:434	struct:<anonymous>::__PACKED
+b11	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	435;"	m	line:435	struct:<anonymous>::__PACKED
+b12	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	491;"	m	line:491	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	436;"	m	line:436	struct:<anonymous>::__PACKED
+b13	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	492;"	m	line:492	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	437;"	m	line:437	struct:<anonymous>::__PACKED
+b14	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	493;"	m	line:493	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	223;"	m	line:223	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	280;"	m	line:280	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	438;"	m	line:438	struct:<anonymous>::__PACKED
+b15	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	494;"	m	line:494	struct:<anonymous>::__PACKED
+b16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172	struct:<anonymous>::__PACKED
+b16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	224;"	m	line:224	struct:<anonymous>::__PACKED
+b16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	281;"	m	line:281	struct:<anonymous>::__PACKED
+b16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	439;"	m	line:439	struct:<anonymous>::__PACKED
+b16	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495	struct:<anonymous>::__PACKED
+b17	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173	struct:<anonymous>::__PACKED
+b17	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225	struct:<anonymous>::__PACKED
+b17	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282	struct:<anonymous>::__PACKED
+b17	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	440;"	m	line:440	struct:<anonymous>::__PACKED
+b17	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496	struct:<anonymous>::__PACKED
+b18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174	struct:<anonymous>::__PACKED
+b18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226	struct:<anonymous>::__PACKED
+b18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283	struct:<anonymous>::__PACKED
+b18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	441;"	m	line:441	struct:<anonymous>::__PACKED
+b18	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497	struct:<anonymous>::__PACKED
+b19	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	175;"	m	line:175	struct:<anonymous>::__PACKED
+b19	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	227;"	m	line:227	struct:<anonymous>::__PACKED
+b19	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284	struct:<anonymous>::__PACKED
+b19	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	442;"	m	line:442	struct:<anonymous>::__PACKED
+b19	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	498;"	m	line:498	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	425;"	m	line:425	struct:<anonymous>::__PACKED
+b2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
+b20	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	176;"	m	line:176	struct:<anonymous>::__PACKED
+b20	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	228;"	m	line:228	struct:<anonymous>::__PACKED
+b20	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285	struct:<anonymous>::__PACKED
+b20	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	443;"	m	line:443	struct:<anonymous>::__PACKED
+b20	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	499;"	m	line:499	struct:<anonymous>::__PACKED
+b21	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	177;"	m	line:177	struct:<anonymous>::__PACKED
+b21	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	229;"	m	line:229	struct:<anonymous>::__PACKED
+b21	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286	struct:<anonymous>::__PACKED
+b21	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	444;"	m	line:444	struct:<anonymous>::__PACKED
+b21	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
+b22	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	178;"	m	line:178	struct:<anonymous>::__PACKED
+b22	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230	struct:<anonymous>::__PACKED
+b22	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	287;"	m	line:287	struct:<anonymous>::__PACKED
+b22	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	445;"	m	line:445	struct:<anonymous>::__PACKED
+b22	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
+b23	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	179;"	m	line:179	struct:<anonymous>::__PACKED
+b23	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231	struct:<anonymous>::__PACKED
+b23	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	288;"	m	line:288	struct:<anonymous>::__PACKED
+b23	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	446;"	m	line:446	struct:<anonymous>::__PACKED
+b23	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502	struct:<anonymous>::__PACKED
+b24	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232	struct:<anonymous>::__PACKED
+b24	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289	struct:<anonymous>::__PACKED
+b24	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	447;"	m	line:447	struct:<anonymous>::__PACKED
+b24	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	503;"	m	line:503	struct:<anonymous>::__PACKED
+b25	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233	struct:<anonymous>::__PACKED
+b25	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290	struct:<anonymous>::__PACKED
+b25	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	448;"	m	line:448	struct:<anonymous>::__PACKED
+b25	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	504;"	m	line:504	struct:<anonymous>::__PACKED
+b26	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	234;"	m	line:234	struct:<anonymous>::__PACKED
+b26	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291	struct:<anonymous>::__PACKED
+b26	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449	struct:<anonymous>::__PACKED
+b26	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
+b27	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	235;"	m	line:235	struct:<anonymous>::__PACKED
+b27	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	292;"	m	line:292	struct:<anonymous>::__PACKED
+b27	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	450;"	m	line:450	struct:<anonymous>::__PACKED
+b27	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
+b28	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	236;"	m	line:236	struct:<anonymous>::__PACKED
+b28	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	293;"	m	line:293	struct:<anonymous>::__PACKED
+b28	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	451;"	m	line:451	struct:<anonymous>::__PACKED
+b28	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
+b29	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237	struct:<anonymous>::__PACKED
+b29	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294	struct:<anonymous>::__PACKED
+b29	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
+b29	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	426;"	m	line:426	struct:<anonymous>::__PACKED
+b3	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
+b30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238	struct:<anonymous>::__PACKED
+b30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295	struct:<anonymous>::__PACKED
+b30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
+b30	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509	struct:<anonymous>::__PACKED
+b31	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	239;"	m	line:239	struct:<anonymous>::__PACKED
+b31	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296	struct:<anonymous>::__PACKED
+b31	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
+b31	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	510;"	m	line:510	struct:<anonymous>::__PACKED
+b32	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297	struct:<anonymous>::__PACKED
+b32	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	511;"	m	line:511	struct:<anonymous>::__PACKED
+b33	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298	struct:<anonymous>::__PACKED
+b33	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
+b34	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299	struct:<anonymous>::__PACKED
+b34	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
+b35	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300	struct:<anonymous>::__PACKED
+b35	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514	struct:<anonymous>::__PACKED
+b36	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301	struct:<anonymous>::__PACKED
+b36	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	515;"	m	line:515	struct:<anonymous>::__PACKED
+b37	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302	struct:<anonymous>::__PACKED
+b37	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	516;"	m	line:516	struct:<anonymous>::__PACKED
+b38	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303	struct:<anonymous>::__PACKED
+b38	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
+b39	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304	struct:<anonymous>::__PACKED
+b39	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	127;"	m	line:127	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	427;"	m	line:427	struct:<anonymous>::__PACKED
+b4	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
+b40	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305	struct:<anonymous>::__PACKED
+b40	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
+b41	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306	struct:<anonymous>::__PACKED
+b41	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
+b42	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307	struct:<anonymous>::__PACKED
+b42	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
+b43	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308	struct:<anonymous>::__PACKED
+b43	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
+b44	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309	struct:<anonymous>::__PACKED
+b44	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
+b45	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310	struct:<anonymous>::__PACKED
+b45	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
+b46	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311	struct:<anonymous>::__PACKED
+b46	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
+b47	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312	struct:<anonymous>::__PACKED
+b47	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
+b48	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313	struct:<anonymous>::__PACKED
+b48	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
+b49	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314	struct:<anonymous>::__PACKED
+b49	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	128;"	m	line:128	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	428;"	m	line:428	struct:<anonymous>::__PACKED
+b5	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
+b50	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315	struct:<anonymous>::__PACKED
+b50	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
+b51	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316	struct:<anonymous>::__PACKED
+b51	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
+b52	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317	struct:<anonymous>::__PACKED
+b52	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
+b53	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318	struct:<anonymous>::__PACKED
+b53	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
+b54	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319	struct:<anonymous>::__PACKED
+b54	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
+b55	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320	struct:<anonymous>::__PACKED
+b55	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
+b56	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321	struct:<anonymous>::__PACKED
+b56	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
+b57	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322	struct:<anonymous>::__PACKED
+b57	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
+b58	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323	struct:<anonymous>::__PACKED
+b58	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
+b59	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324	struct:<anonymous>::__PACKED
+b59	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	214;"	m	line:214	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	429;"	m	line:429	struct:<anonymous>::__PACKED
+b6	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
+b60	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325	struct:<anonymous>::__PACKED
+b60	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
+b61	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326	struct:<anonymous>::__PACKED
+b61	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
+b62	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	327;"	m	line:327	struct:<anonymous>::__PACKED
+b62	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
+b63	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	328;"	m	line:328	struct:<anonymous>::__PACKED
+b63	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	215;"	m	line:215	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	430;"	m	line:430	struct:<anonymous>::__PACKED
+b7	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	131;"	m	line:131	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	216;"	m	line:216	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	431;"	m	line:431	struct:<anonymous>::__PACKED
+b8	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	132;"	m	line:132	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	217;"	m	line:217	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	274;"	m	line:274	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	432;"	m	line:432	struct:<anonymous>::__PACKED
+b9	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	109;"	m	line:109
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	240;"	m	line:240
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	329;"	m	line:329
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455
+bits	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543
+buffer	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	352;"	m	line:352
+bufferIsBusy	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	353;"	m	line:353
+bufferSize	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	354;"	m	line:354
+byte	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120
+byte	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153
+byte	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200
+byte	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377
+byte	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415
+command	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	229;"	l	line:229
+cyclesRequiredForEntireDelay	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	126;"	l	line:126
+cyclesRequiredForEntireDelay	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	69;"	l	line:69
+dword	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255
+dword	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469
+far	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	186;"	d	line:186
+gain	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	373;"	m	line:373
+getcSPI::getcSPI1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	164;"	d	line:164
+getcSPI::getcSPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	221;"	d	line:221
+hiResult	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	383;"	m	line:383
+high	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204	struct:<anonymous>::__PACKED
+high	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	419;"	m	line:419	struct:<anonymous>::__PACKED
+i	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\TimeDelay.c	182;"	l	line:182
+loResult	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	382;"	m	line:382
+low	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203	struct:<anonymous>::__PACKED
+low	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	418;"	m	line:418	struct:<anonymous>::__PACKED
+memcmppgm2ram::(a,b,c)memcmp(a,b,c)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	139;"	d	line:139
+memcpypgm2ram::(a,b,c)memcpy(a,b,c)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	141;"	d	line:141
+oFlags	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.c	138;"	l	line:138
+pBufferEnd	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	80;"	v	line:80
+pBufferStart	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	78;"	v	line:78
+pDataEnd	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	76;"	v	line:76
+pDataStart	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	75;"	v	line:75
+pNextData	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv_ISRs.c	82;"	v	line:82	file:
+persistent	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	185;"	d	line:185
+pingPongBufferFlag	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	371;"	m	line:371
+ppBuffers	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	372;"	m	line:372
+putcSPI::putcSPI1	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	163;"	d	line:163
+putcSPI::putcSPI2	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Source Files\mTouchGraphicsCodecDemo\HardwareProfile.h	220;"	d	line:220
+result	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	379;"	m	line:379
+rom	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	166;"	d	line:166
+rxBuffer	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	365;"	m	line:365
+rxBufferReadPtr	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	367;"	m	line:367
+rxBufferWritePtr	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	369;"	m	line:369
+strcatpgm2ram::(a,b)strcat(a,b)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	147;"	d	line:147
+strchrpgm::(a,b)strchr(a,b)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	146;"	d	line:146
+strcmppgm2ram::(a,b)strcmp(a,b)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	140;"	d	line:140
+strcpypgm2ram::(a,b)strcpy(a,b)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	142;"	d	line:142
+strlenpgm::(a)strlen(a)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	145;"	d	line:145
+strncpypgm2ram::(a,b,c)strncpy(a,b,c)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	143;"	d	line:143
+strstrrampgm::(a,b)strstr(a,b)	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\Compiler.h	144;"	d	line:144
+txBuffer	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	366;"	m	line:366
+txBufferReadPtr	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	368;"	m	line:368
+txBufferWritePtr	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	370;"	m	line:370
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	431;"	m	line:431
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	463;"	m	line:463
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	500;"	m	line:500
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	537;"	m	line:537
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	573;"	m	line:573
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	608;"	m	line:608
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	639;"	m	line:639
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	674;"	m	line:674
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	717;"	m	line:717
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	740;"	m	line:740
+w	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\WM8731_Codec\WM8731Drv.h	761;"	m	line:761
+word	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193
+word	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262
+word	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408
+word	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476
+wordUnion	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205
+wordUnion	E:\OfflineDocs\Demos\PIC32_1xx2xxSK_mTouchGraphicsCodecDemo\Microchip\Include\GenericTypeDefs.h	420;"	m	line:420

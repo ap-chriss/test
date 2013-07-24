@@ -1,0 +1,8 @@
+REM This diskpart script repartitions a 8 GByte micro SD card to 2 GBytes,
+REM allowing the use of a FAT16 partition instead of FAT32.
+LIST volume
+SELECT volume=E
+DETAIL volume
+DELETE partition 
+CREATE partition primary size=2000
+EXIT
