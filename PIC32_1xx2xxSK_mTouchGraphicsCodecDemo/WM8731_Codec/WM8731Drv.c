@@ -81,7 +81,7 @@ void I2SInit(void)
     // Setup I2S on SPI1
     I2SCON = I2SCON2 = 0;   // Reset settings
     I2SSTATBITS.SPIROV = 1; // Clear overflow, if set
-    I2SSTAT = 0;
+    I2SSTAT = 1;//changed from a 0 to 1 for Git test
     ReadData = I2SBUF;      // Read any data
 
 
